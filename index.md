@@ -19,7 +19,7 @@ M.A.   Department of Religious Studies at Seoul National University
 B.A.   Business Administration at Korea University
 
 ## Publications 
-# Journal Articles
+### Journal Articles
 “Paul’s Blindness in Acts: Luke’s Literary Effort in Making Paul a ‘Convert’ to Christianity,” (Under Review) 
 “Theodicy of Valentinus in the The Gospel of Truth,” Journal of Religious Studies, Korean Association for Religious Studies, Vol. 27 (2008), 141-156. 
 “The “Impurity of Pork (Dotgoki-impurity)” in Jeju Island’s Village-Myths,” Journal of Religious Studies, Korean Association for Religious Studies, Vol. 26 (2008), 149-166.
