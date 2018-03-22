@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="jin.PNG">
 
-Hi! My name is Jin. I am a Ph.D. Candidate at Department of Religious Studies in University of Texas at Austin. My research area of Concentration is Religion in Ancient Mediterranean.
+Hi! My name is Jin. I am a Ph.D. Candidate at Department of Religious Studies in University of Texas at Austin. 
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research area of concentration is religion in ancient mediterranean.
 
 ## Education
 M.A    Department of Religious Studies at University of Texas at Austin
