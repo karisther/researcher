@@ -3,19 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [karisther@gmail.com](mailto:karisther@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-8572091485](tel:+1-8572091485)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 2501 Lake Austin Blvd.
 >
-> London
+> Austin, Texas
 >
-> United Kingdom
+> United States
 
 ---
 
