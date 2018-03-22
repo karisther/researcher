@@ -1,6 +1,6 @@
 title: Researcher
-url: "https://karisther.github.com"
-baseurl: "/researcher/"
+url: https://karisther.github.io
+baseurl: /researcher/
 
 markdown: kramdown
 
