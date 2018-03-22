@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="Taek.jpg">
+<img class="profile-picture" src="Taek.JPG">
 
 Hi! I am Taek.
 
