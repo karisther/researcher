@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [karisther@gmail.com](mailto:karisther@gmail.com)
 
-* Phone: [+1-8572091485](tel:+1-8572091485)
+* Phone: [+1-857-209-1485](tel:+1-8572091485)
 
 ---
 
